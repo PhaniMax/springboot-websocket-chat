@@ -1,0 +1,1 @@
+Just run the application in the localhost:8080, that's it. It should work.
